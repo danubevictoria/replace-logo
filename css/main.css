@@ -1,0 +1,10 @@
+.logo {
+  width: 2500px; 
+  height: 2500px;
+  background: url("https://www.w3schools.com/w3css/img_lights.jpg") no-repeat;
+  display: block;
+  font-size: 1px;
+  color: white;
+  text-indent: -9999px;
+}
+
